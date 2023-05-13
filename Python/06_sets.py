@@ -47,3 +47,4 @@ print(my_new_set.union({'Python', 'Piixie'}))
 
 # Muestra los elementos diferentes con respecto a otro set
 print(my_new_set.difference(my_set))
+#
