@@ -30,6 +30,7 @@ print("Mi nombre es {} {} y mi edad es {}".format(name, lastname,age))
 print("Mi nombre es %s %s y mi edad es %d" %(name, lastname, age))
 #... para evitar hacer...
 print("Mi nombre es " + name + " " + lastname + " y mi edad es " + str(age))
+
 # Inferencia de datos (forma mas rapida)
 # la F sirve para formatear rapidamente las variables en el String
 print(f"Mi nombre es {name} {lastname} y mi edad es {age}")
