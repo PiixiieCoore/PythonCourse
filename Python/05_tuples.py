@@ -26,3 +26,4 @@ print(my_sum_tuple)
 print(my_sum_tuple[3:6])
 
 # del my_tuple no solo borra la tupla sino elimina toda la variable
+#
